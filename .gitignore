@@ -1,0 +1,11 @@
+.settings
+binderbot/target
+binderbot/.settings
+binderbot/.classpath
+binderbot-it/bin
+binderbot-it/gen
+binderbot-it/target
+binderbot-it/.settings
+binderbot-it/.classpath
+binderbot-it/tmp
+target
